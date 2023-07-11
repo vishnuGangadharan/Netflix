@@ -1,0 +1,239 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif ;
+    box-sizing: border-box;
+
+}
+body{
+    background: black;
+    color: #fff;
+   
+}
+.header{
+   width: 100%;
+    height:778px;
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.7)) , url(img/net.jpg);
+    background-size: cover;
+    background-position:center ;
+    padding: 10px 8%;
+    position:relative;
+}
+.logo{
+    width: 215px;
+    cursor: pointer;
+    margin-left: -71px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 0;
+    
+}
+.lag{
+    background: transparent;
+    color: #fff;
+    border:1px solid #fff;
+    padding: 7px 10px;
+    border-radius: 5px;
+}.signin{
+    border: 0;
+    outline: 0;
+    background-color: red;
+    border: 1px solid #fff;
+    padding: 7px 0px;
+    width: 54px;
+    color: white;
+    font-size: 12px;
+    border-radius: 5px;
+    margin-left: 10px;
+    height: 32px;
+    font-weight: 500;
+}
+.writing{
+    position: absolute;
+    top: 41%;
+    text-align: left;
+    padding-left:0px ;
+    margin-left: -7px;
+}
+.writing h1{
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+    font-size: 59px;
+    border-top: 200px;
+}
+.email{
+    width: 300px;
+    height: 50px;
+    background: transparent;
+    border: 1px solid #fff ;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-indent: 20px;
+}
+.button2{
+    border-color: #fff;
+    width: 141px;
+    height: 50px;
+    background-color: red;
+    font-weight: bold;
+    border-radius: 6px;
+    border: 0;
+    color: #fff;
+    font-size: 17px;
+
+}
+.writing p{
+    margin-top: 20px;
+}
+.writing h3{
+    margin-top: 20px;
+}
+.writing{
+    height: 200px;
+    height: 400px;
+    margin-top: -72px;
+}
+.box1, .box2,.box3,.box4{
+    height: 380px;
+    width: 23%;
+    margin-left: 5px;
+    margin-right: 5px;
+    border:1px solid black;
+    background-image: linear-gradient( #730A2F -1.4%, #170F48 60.78%);
+   
+    
+}
+.box{
+    margin: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 725px;
+    left: 1px;
+}
+.tv{
+    margin: 32px;
+}
+.tvp{
+   margin: 33px;
+    font-size: 16px;
+    font-weight: normal;
+}
+.popcorn{
+    margin: 32px;
+}
+.popcorn2{
+   margin: 33px;
+    font-size: 16px;
+    font-weight: normal;
+}
+.ball{
+    margin: 32px;
+}
+.ball2{
+   margin: 33px;
+    font-size: 16px;
+    font-weight: normal;
+}
+.download{
+    margin: 32px;
+}
+.download2{
+   margin: 33px;
+    font-size: 16px;
+    font-weight: normal;
+}
+.text{
+      margin-top: 411px;
+    margin-left: 64px;
+    font-size: 40px;
+}
+.b1,.b2,.b3,.b4,.b5,.b6{
+      width: 1124px;
+    height: 80px;
+    background-color: #170F48;
+    border: 1px solid black;
+    margin-left: 59px;
+    margin-top: 8px;
+}
+.bb1,.bb2,.bb3,.bb4,.bb5,.bb6{
+    padding-top: 28px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.text2{
+    margin-left: 56px;
+    margin-top: 23px;
+    font-size: 22px;
+}.email2{
+    width: 370px;
+    height: 50px;
+    background: transparent;
+    border: 1px solid #fff;
+    margin-top: 20px;
+    border-radius: 5px;
+    margin-left: 59px;
+    text-indent: 20px;
+}
+.button3{
+    border-color: #fff;
+    width: 141px;
+    height: 50px;
+    background-color: red;
+    font-weight: bold;
+    border-radius: 6px;
+    border: 0;
+    color: #fff;
+    font-size: 17px;
+
+}
+.footer{
+    width: 100%;
+    text-decoration: none;
+    color: #e32222;
+    height: 150px;
+    display: flex;
+    justify-content: space-around;
+    margin-left: -25px;
+}
+.col1 a,.col2 a,.col3 a,.col4 a{
+    color:#d4d1d1;
+    display: flex;
+    flex-direction: column;
+    font-family: Netflix Sans,Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    margin-bottom: 20px;
+}
+.call{
+    margin-left: 8px;
+    margin-top: 66px;
+    padding: 58px;
+}
+.button4{
+    
+    margin-left: 68px;
+    margin-top: 20px;
+    width: 96px;
+    height: 29px;
+    background: transparent;
+    color: white;
+    border-radius: 5px;
+    padding-left: 15px;
+
+}
+.last{
+    margin: 65px;
+
+}
+.plus{
+    margin-left: 1067px;
+    margin-top: -39px;
+    font-size: 48px;
+    font-style: oblique;
+}
+
+
